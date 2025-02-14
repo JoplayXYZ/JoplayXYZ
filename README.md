@@ -6,6 +6,9 @@
 > 
 > **Visit my very sigma website**
 > [Joplay.xyz](https://joplay.xyz/)
+>
+> **Minecraft Utils**
+> [Utils.joplay.xyz](https://utils.joplay.xyz)
 
 I suck at coding in SK and Html so please dont look at my other repos not listed here
 ### Stuff ✨:
