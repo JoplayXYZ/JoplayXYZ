@@ -1,7 +1,7 @@
 ## Idk what to put here
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Im+really+sigma;uhuh;)](https://git.io/typing-svg)
 
-[![minecraft avatar](https://minotar.net/avatar/JoplayXYZ/100.png)](https://minotar.net/avatar/JoplayXYZ/100.png)
+[![minecraft avatar](https://minotar.net/helm/JoplayXYZ/100.png)](https://minotar.net/helm/JoplayXYZ/100.png)
 
 > **Join my Discord**
 > [Joplay.xyz/discord](https://joplay.xyz/discord)
