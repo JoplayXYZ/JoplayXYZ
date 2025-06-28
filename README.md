@@ -1,5 +1,5 @@
 ## Idk what to put here
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Im+really+sigma;uhuh;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+code+in...;HTML;CSS;SKRIPT;)](https://git.io/typing-svg)
 
 [![minecraft avatar](https://minotar.net/helm/JoplayXYZ/100.png)](https://minotar.net/helm/JoplayXYZ/100.png)
 
