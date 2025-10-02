@@ -12,7 +12,6 @@
 > **Minecraft Utils**
 > [Utils.joplay.xyz](https://utils.joplay.xyz)
 
-I suck at coding in SK and Html so please dont look at my other repos not listed here
 ### Stuff 
 
 1. Some of my [Skripts](https://github.com/JoplayXYZ/Skripts)
