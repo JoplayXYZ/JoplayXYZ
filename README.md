@@ -1,20 +1,22 @@
-## Idk what to put here
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+code+in...;HTML;CSS;SKRIPT;And+more;)](https://git.io/typing-svg)
-
-[![minecraft avatar](https://minotar.net/helm/JoplaydotXYZ/100.png)](https://minotar.net/helm/JoplaydotXYZ/100.png)
-
-> **Join my Discord**
+**Hi**! I'm **Jonas** or Joplay(dot)xyz, i make random ahh projects for fun. Usually websites or minecraft servers.
+I am also the founder of CHJK Studios, a small team of developers working on 
+### Links
+> **My Discord**
 > [Joplay.xyz/discord](https://joplay.xyz/discord)
 > 
 > **My website**
 > [Joplay.xyz](https://joplay.xyz/)
 >
+> **CHJK Studios**
+> [chjk.xyz](https://chjk.xyz)
+>
 > **Minecraft Utils**
-> [Utils.joplay.xyz](https://utils.joplay.xyz)
+> [Utils.chjk.xyz](https://utils.chjk.xyz)
+> [Github chjk-studios/server-designer](https://github.com/chjk-studios/server-designer)
 
 ### Stuff 
 
 1. Some of my [Skripts](https://github.com/JoplayXYZ/Skripts)
 2. Open Source [LinkInBio](https://github.com/chickenjockey-dev/LinkInBio) website generator
-3. IOS webclip Generator [JoplayXYZ/Webclip](https://github.com/JoplayXYZ/Webclip)
+3. 
 4. Minecraft server utilities [chjk-studios/server-designer](https://github.com/chjk-studios/server-designer)
