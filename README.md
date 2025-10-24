@@ -1,5 +1,7 @@
 **Hi**! I'm **Jonas** or Joplay(dot)xyz, i make random ahh projects for fun. Usually websites or minecraft servers.
-I am also the founder of CHJK Studios, a small team of developers working on 
+I am also the founder of CHJK Studios, a small team of developers working on multible projects
+
+
 ### Links
 > **My Discord**
 > [Joplay.xyz/discord](https://joplay.xyz/discord)
