@@ -2,8 +2,8 @@
 I am also the founder of CHJK Studios, a small team of developers working on multible projects
 
 
-### Skills
-[![Skillicons](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,git,md,raspberrypi,ubuntu,mint,github,linux,firebase,vscode,blender,davinci,fabricmc,appwrite,vercel,tauri&theme=dark&perline=6)](https://github.com/LelouchFR/skill-icons)
+### Stuff i use
+[![Skillicons](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,git,md,raspberrypi,ubuntu,mint,github,linux,brave,docsify,docker,firebase,vscode,codepen,blender,davinci,fabricmc,appwrite,vercel,tauri&theme=dark&perline=6)](https://github.com/LelouchFR/skill-icons)
 
 ### Links
 > **My Discord**
