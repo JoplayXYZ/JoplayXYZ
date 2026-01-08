@@ -25,3 +25,7 @@ I am also the founder of CHJK Studios, a small team of developers working on mul
 2. Open Source [LinkInBio](https://github.com/chickenjockey-dev/LinkInBio) website generator
 3. 
 4. Minecraft server utilities [chjk-studios/server-designer](https://github.com/chjk-studios/server-designer)
+
+### Stats
+
+![JoplayXYZ's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=JoplayXYZ&type=contributions&theme=github)
