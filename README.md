@@ -29,3 +29,7 @@ I am also the founder of CHJK Studios, a small team of developers working on mul
 ### Stats
 
 ![JoplayXYZ's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=JoplayXYZ&type=contributions&theme=github)
+
+### CHJK Studios
+
+[<img width="500px" src="https://chjk.xyz/_assets/img/banner-logo.png" alt="CHJK Studios Banner">](https://github.com/chjk-studios)
