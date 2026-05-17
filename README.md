@@ -1,14 +1,11 @@
 **Hi**! I'm **Jonas** or Joplay(dot)xyz, i make random ahh projects for fun. Usually websites or minecraft servers.
-I am also the founder of CHJK Studios, a small team of developers working on multible projects
+I am also the founder of CHJK Studios, a small team of developers working on multiple projects
 
 
 ### Stuff i use
-[![Skillicons](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,git,astro,nodejs,md,raspberrypi,ubuntu,mint,github,obsidian,cloudflare,linux,brave,docsify,docker,firebase,vscode,codepen,blender,davinci,appwrite,vercel,tauri&theme=dark&perline=6)](https://github.com/LelouchFR/skill-icons)
+[![Skillicons](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,git,astro,bun,hono,nodejs,md,raspberrypi,ubuntu,mint,github,obsidian,cloudflare,linux,brave,docsify,docker,vscode,codepen,blender,davinci,appwrite,supabase,vercel,tauri&theme=dark&perline=6)](https://github.com/LelouchFR/skill-icons)
 
 ### Links
-> **My Discord**
-> [Joplay.xyz/discord](https://joplay.xyz/discord)
-> 
 > **My website**
 > [Joplay.xyz](https://joplay.xyz/)
 >
